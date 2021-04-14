@@ -150,5 +150,5 @@ int deathrate(int operand1, int operand2);
 */
 int recoveryrate(int operand1, int operand2);
 
-#endif  /* #define __COVID_OPERATIONS_H__ */
+#endif  /* #define __COVID_SYSTEM_OPERATION_H__ */
 
