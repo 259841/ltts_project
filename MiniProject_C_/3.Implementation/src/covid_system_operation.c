@@ -1,4 +1,4 @@
-#include <covid_operations.h>
+#include <covid_system_operation.h>
 
 
 int visits(int operand1, int operand2)
