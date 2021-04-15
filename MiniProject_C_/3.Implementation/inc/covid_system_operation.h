@@ -1,5 +1,5 @@
 /** 
-* @file covid_operations.h
+* @file covid_system_operation.h
 * Covid management application with many operations
 *
 */
