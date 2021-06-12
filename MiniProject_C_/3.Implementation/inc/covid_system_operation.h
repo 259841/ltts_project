@@ -1,6 +1,6 @@
 /** 
 * @file covid_system_operation.h
-* Covid management application with many operations
+* Covid management application with multiple operations
 *
 */
 #ifndef __COVID_SYSTEM_OPERATION_H__
